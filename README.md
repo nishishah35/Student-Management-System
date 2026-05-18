@@ -260,9 +260,7 @@ Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-## 👨‍💻 Author
 
-**Made with ❤️ and ☕ in India 🇮🇳**
 
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
